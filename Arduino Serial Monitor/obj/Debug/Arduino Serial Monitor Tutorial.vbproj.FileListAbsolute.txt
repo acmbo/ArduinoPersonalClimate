@@ -1,0 +1,27 @@
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.exe
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.pdb
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.xml
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.vbprojResolveAssemblyReference.cache
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino_Serial_Monitor_Tutorial.Form1.resources
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino_Serial_Monitor_Tutorial.Resources.resources
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.vbproj.GenerateResource.Cache
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.exe
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.xml
+C:\Users\BasselAkmal\Documents\Visual Studio 2015\Projects\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.pdb
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.exe
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.pdb
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.xml
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.vbprojAssemblyReference.cache
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino_Serial_Monitor_Tutorial.Form1.resources
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino_Serial_Monitor_Tutorial.Resources.resources
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.vbproj.GenerateResource.cache
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.exe
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.xml
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.pdb
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.exe.config
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino_Serial_Monitor_Tutorial.Form2.resources
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.exe.manifest
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\bin\Debug\Arduino Serial Monitor Tutorial.application
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.exe.manifest
+C:\Users\Stephan\source\repos\Arduino Serial Monitor Tutorial\obj\Debug\Arduino Serial Monitor Tutorial.application
