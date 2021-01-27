@@ -18,7 +18,7 @@ The concept was already proposed and prototyped in Arens and Zhang[2006]:
 The projects consisted of a hardware implementation with an 
 Arduino micro controller with a compatible programm and a additional
 monitor for plotting the incoming data from the Arduino on a computer system.
-A major part of the project was ti implement a PDI-Controller for controlling 
+A major part of the project was to implement a PDI-Controller for controlling 
 either a fan or a heating rod to warm the body.
 
 ## The PID-controller
