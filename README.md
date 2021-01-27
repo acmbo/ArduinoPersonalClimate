@@ -32,7 +32,9 @@ The following diagramm shows how the controller should react:
 
 Theoretic cases to compute by the adurino:
 
-![Fallunt](doc/Fallunt.png "Fallunt" =300px)
+[comment]:#![Fallunt](doc/Fallunt.png "Fallunt"
+
+<img src="/doc/Fallunt.png" width="200" />
 
 ### Used Hardware
 
