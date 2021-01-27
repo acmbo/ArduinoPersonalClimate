@@ -59,7 +59,7 @@ The follow scheme was used for connecting the components:
 
 The protoype looked as follows:
 
-![Hardware](doc/Hardware1.png "Hardware")
+![Hardware](doc/Hardware1.PNG "Hardware")
 
 ### Software
 
