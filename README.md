@@ -10,7 +10,10 @@ consumed by the HVAC system.
 
 The concept was already proposed and prototyped in Arens and Zhang[2006]:
 
-![Concept](doc/Concept.PNG "Concept" =300px)
+[comment]:#![Concept](doc/Concept.PNG "Concept"
+
+<img src="/doc/Concept.PNG" width="300" />
+
 
 The projects consisted of a hardware implementation with an 
 Arduino micro controller with a compatible programm and a additional
