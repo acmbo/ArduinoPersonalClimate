@@ -27,7 +27,7 @@ The implementation of the controller does work on following assumptions:
 - a constant body temperature is set at the beginning of the regulation to keep up for the whole process and equals T_Target(german: T_Soll)
 - T_Target(german: T_Soll) can only be manual be changed. The adurino is capable to accept commands to change T_Target(german: T_Soll) and the PID reacts to this change
 - both heating or cooling system react to changes of body temperature in changing their intensity, measured by the difference of bodytemperature T_Body(german:T_Haut) and T_Target(german: T_Soll)
-- ideal body temperature lies aroung 40°Celsius
+- ideal body temperature lies around 37°Celsius
 
 The following diagramm shows how the controller should react:
 
