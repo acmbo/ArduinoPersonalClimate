@@ -96,7 +96,7 @@ which we observed:
 - There can be a discrepancy between mesured temperature and bodytemperature, because the sensor has to be glued to the body
 - A solution with the cable sensor is very impractical. A better solution can be provided by using an infrared sensor
 - The heating case was impractical because of the used hardware/heatrod. A better solution should be found here
-- The environmental temperature influence isn't quite cleary, but didnt had a strong inpact on the measurments 
+- The environmental temperature influence isn't quite clear, but didn't had a strong inpact on the measurments 
 - The fan distance is another unknown parameter, which has to be researched further 
 
 
