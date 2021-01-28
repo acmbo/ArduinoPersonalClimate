@@ -1,4 +1,4 @@
-# Personal Temperature Controll Project
+﻿# Personal Temperature Controll Project
 
 This repo describes the code for implementing a prototype for a 
 personal climate system, which was implemented with a heating and
@@ -65,7 +65,7 @@ The protoype looked as follows:
 
 On the software side, we computed the adurino with C++. We used existing
 libaries to connect the Arduino with sensors and for the PID controller. We 
-develop a command parser for input commands over computer.
+developed a command parser for input commands over computer.
 
 The following scripts were used for these cases:
 - _windows_PID_heiz.ino_ was used for heating case
